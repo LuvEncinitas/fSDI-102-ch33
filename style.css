@@ -1,0 +1,23 @@
+body {
+
+    font-family: arial; 
+    background-color: black; 
+    color: white
+}
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 1px 1px
+}
+
+.myclass{
+    font-size: 18px;
+    color:beige;
+
+    text-transform: uppercase;
+
+}
+ 
+
